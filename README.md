@@ -1,8 +1,7 @@
 - 💫 @celia-marco
 - 🐛 not very familiar with github....
 - ✨ ....yet
-- 💾 using this to make my work more efficient 
-- 🍂 pronouns: she/they
+- 💾 using this to make my work more efficient
 - 🦐 fun fact: the mantis shrimp is neither shrimp nor mantis
 
 <!---
